@@ -1,4 +1,4 @@
-<h3 align="center">A passionate Java Full-Stack developer from India</h3>
+<h3 align="center">A passionate Java Full-Stack developer </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjay-378" alt="sanjay-378" /></a> </p>
 
